@@ -5,6 +5,8 @@ title: Config explanation
 
 # Config explanation
 
+With the /neo protect setup command, all config settings, apart from 'Language:' and 'autoUpdateIP:', are set automatically and should not normally be changed yourself.
+
 ```
 # Don't change anything here if you don't know what you're doing
 APIKey: '' # The API-KEY is set automatically during setup
