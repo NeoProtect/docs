@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
-title: Feature
+title: Features
 ---
 
-# Feature
+# Features
 
-Here you can see the current features of NeoPluing, these are constantly being expanded and are therefore not always up to date. If you have any feature ideas yourself, let us know and we will possibly incorporate them into the NeoPlugin.
+Here you can see the current features of NeoPlugin, these are constantly being expanded and are therefore not always up to date. If you have any feature ideas yourself, let us know and we will possibly incorporate them into the NeoPlugin.
 
 | Feature                                                   |      Available      |
 |:----------------------------------------------------------|:-------------------:|
@@ -33,8 +33,6 @@ You have to set the permission ``neoprotect.admin`` before you can start the set
 | under attack message | In-game message if server is under attack                   | neoprotect.admin<br/>neoprotect.notify |
 
 # Config explanation
-
-Config explanation
 
 With the /neoprotect setup command, all config settings, apart from 'Language:' and 'autoUpdateIP:', are set automatically and should not normally be changed yourself.
 
