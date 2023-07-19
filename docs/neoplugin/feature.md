@@ -17,3 +17,34 @@ Here you can see the current features of NeoPluing, these are constantly being e
 | Some commands to interact with NeoProtect intern system   | :white_check_mark:  |
 | In-game message if server is under attack                 | :white_check_mark:  |
 | In-game analytics                                         | :white_check_mark:  |
+
+# Permissions
+
+You have to set the permission ``neoprotect.admin`` before you can start the setup.
+
+| Command / Feature    | Description                                                 | Permission                             |
+|:---------------------|-------------------------------------------------------------|----------------------------------------|
+| /np setup            | start the setup (setup set API-KEY, backend and gameshield) | neoprotect.admin                       |
+| /np ipanic           | toggle AntiBot level                                        | neoprotect.admin                       |
+| /np toggle (option)  | toggle different options                                    | neoprotect.admin                       |
+| /np debugTool        | start debug tool                                            | neoprotect.admin                       |
+| /np setgameshield    | set gameshield for establish the connection to NeoProtect   | neoprotect.admin                       |
+| /np setbackend       | set backend for establish the connection to NeoProtect      | neoprotect.admin                       |
+| under attack message | In-game message if server is under attack                   | neoprotect.admin<br/>neoprotect.notify |
+
+# Config explanation
+
+Config explanation
+
+With the /neoprotect setup command, all config settings, apart from 'Language:' and 'autoUpdateIP:', are set automatically and should not normally be changed yourself.
+
+```
+# Don't change anything here if you don't know what you're doing
+APIKey: '' # The API-KEY is set automatically during setup
+ProxyProtocol: true # Needed to forward the player's IP through the NeoProtect Proxy
+Language: en-US # en-US or de-DE (Add new file to /language for more available language https://www.oracle.com/java/technologies/javase/jdk8-jre8-suported-locales.html)
+gameshield:
+  serverId: '' # The serverID is set automatically during setup
+  backendId: '' # The backendID is set automatically during setup
+  autoUpdateIP: false # This setting automatically sets the IP of the NeoProtect backend every 10 seconds
+```
