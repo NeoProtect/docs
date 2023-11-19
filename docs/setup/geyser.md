@@ -25,7 +25,7 @@ Please keep in mind that it can take some minutes before your DNS records are ap
 ## 3. Add your Geyser backend
 On our panel, go to the `Backends` section and click on `Add Backend`. Select `Bedrock Version` and enter your Geyser's IP and Port.
 
-Don't forget to enable [proxy protocol](../features/proxy_protocol.md) in your Geyser config if you want to be able to see players' real IP's on your backend.
+Don't forget to enable [proxy protocol](../features/proxy_protocol.md#geyser) in your Geyser config if you want to be able to see players' real IP's on your backend.
 
 ## 4. Connecting using the Bedrock Edition
 After finishing the Setup you will be able to connect with the Minecraft Bedrock Edition using the configured Domain and Protected Port shown in the panel. Due to high demand, getting the default Bedrock port `19132` can only be requested in a ticket on our Discord. You also need to have at least the `Neo Plan` to request the default port.
