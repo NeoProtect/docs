@@ -14,6 +14,10 @@ guarantee low latencies and zero packet loss.
 - Frankfurt, Germany
 - Paris, France
 - Bucharest, Romania
+- Warsaw, Poland
+- Amsterdam, Netherlands
+- Hong Kong, China
+- Chicago, USA
 - Ashburn, USA
 - Miami, USA
 - Dallas, USA
@@ -26,7 +30,7 @@ If you are interested in a quick overview of our carriers you can check out http
 
 ## Legacy locations (OVHcloud)
 **(GameShield)**
-- Warsaw, Poland
+- North America
 - Frankfurt (Limburg), Germany
 
 Over time the legacy locations will be replaced by our own [PoPs](#as199414-pops).
