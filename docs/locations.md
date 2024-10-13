@@ -13,27 +13,21 @@ guarantee low latencies and zero packet loss.
 **(GameShield, RemoteShield, IP-Transit)**
 - Frankfurt, Germany
 - Paris, France
+- Marseille, Frane
 - Bucharest, Romania
 - Warsaw, Poland
 - Amsterdam, Netherlands
-- Hong Kong, China
 - Chicago, USA
 - Ashburn, USA
 - Miami, USA
 - Dallas, USA
 - Los Angeles, USA
 - Singapore
+- Hongkong
 - Tokyo, Japan
 
 To check the latency from our PoPs you may visit our [Looking Glass](https://lg.neoprotect.net).
 If you are interested in a quick overview of our carriers you can check out https://bgp.tools/as/199414#connectivity.
-
-## Legacy locations (OVHcloud)
-**(GameShield)**
-- North America
-- Frankfurt (Limburg), Germany
-
-Over time the legacy locations will be replaced by our own [PoPs](#as199414-pops).
 
 ## Custom locations
 
