@@ -13,7 +13,7 @@ guarantee low latencies and zero packet loss.
 **(GameShield, RemoteShield, IP-Transit)**
 - Frankfurt, Germany
 - Paris, France
-- Marseille, Frane
+- Marseille, France
 - Bucharest, Romania
 - Warsaw, Poland
 - Amsterdam, Netherlands
