@@ -14,6 +14,7 @@ guarantee low latencies and zero packet loss.
 - Frankfurt, Germany
 - Paris, France
 - Marseille, France
+- Madrid, Spain
 - Bucharest, Romania
 - Warsaw, Poland
 - Amsterdam, Netherlands
